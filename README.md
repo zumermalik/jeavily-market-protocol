@@ -1,7 +1,10 @@
 # jeavily-market-protocol
 # JEAVILY: Quantifying Market Entanglement
 
-> **"Prediction markets tell you *what* will happen. Jeavily tells you *why*."**
+> **"Prediction markets tell you *what* will happen. Jeavily tells you *why*."**<br>
+
+![project image](JEAVILY.png)
+
 
 ## ⚡ The Protocol
 Jeavily is a high-dimensional signal processing engine designed to detect hidden correlations ("Entanglement") between seemingly unrelated prediction markets. By treating global events as a neural network, Jeavily identifies how volatility in one sector (e.g., *Fed Rates*) bleeds into another (e.g., *Tech Stocks*).
